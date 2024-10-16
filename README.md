@@ -1,7 +1,3 @@
-Here is a sample `README.md` file for your insurance prediction project:
-
----
-
 # Insurance Prediction Application
 
 This is a Python-based application that predicts medical expenses for insurance using various machine learning models, including Linear Regression, Decision Tree Regressor, and XGBoost Regressor. The application also provides a user interface (UI) built with Tkinter for predicting medical expenses and determining if insurance is necessary based on a threshold.
