@@ -11,7 +11,6 @@ This is a Python-based application that predicts medical expenses for insurance 
 - [Models](#models)
 - [UI Functionality](#ui-functionality)
 - [Dataset](#dataset)
-- [License](#license)
 
 ## Features
 
